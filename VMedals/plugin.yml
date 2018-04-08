@@ -1,0 +1,8 @@
+name: VMedals
+main: com.vespamc.vmedals.Main
+version: 1.0
+description: Adds medals (custom achievements) to the game!
+author: Yupie
+commands:
+    medals:
+      description: Opens the medals menu
